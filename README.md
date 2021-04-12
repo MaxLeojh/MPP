@@ -71,6 +71,3 @@ To see more *make commands* use `make help`.
 ## 3. Test
 To test the code, modify the variables in test.sh, and then issue command `make test` to test the code.
 If you want to run the test.sh script, you may need to use `chmod +x test.sh` to give the authority to the script file.
-
-## 4. Git
-There are two branches in this repository, use the `coursework` branch.
